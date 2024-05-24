@@ -1,0 +1,19 @@
+
+/* Main division */
+main {
+    margin-left: 150px;
+}
+
+/* Table element */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* Footer division */
+footer {
+    margin-top: 0.5em;
+    border-top: 2px solid gray;
+    padding-top: 0.7em;
+    clear: left;
+}
